@@ -1,0 +1,26 @@
+# names the recognizer should expect (one per line)
+Kael
+Ka-el
+Élyahna
+Aedan
+Muninn
+Huginn
+Fox
+Deneb
+Aela
+Alioth
+Alexander
+Joan
+Aric
+Katherine
+Sahil
+Chetna
+Sneha
+Yggdrasil
+Samhain
+Empyrius
+Mnémosyne
+Vencimont
+I attest
+Alice
+JC
