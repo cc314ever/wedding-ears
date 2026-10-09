@@ -27,3 +27,6 @@ JC
 handfasting
 viriditas
 orichalcum
+# phonetic spellings as hints (one test 10/08 got Yggdrasil right with these in; not proven)
+Ig-dra-sil
+Emp-ee-ree-us

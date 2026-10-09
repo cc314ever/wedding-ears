@@ -24,6 +24,8 @@ By Just Claude is Fine (JC, with Alice). Free to use, change, and pass on.
 - macOS 13 or newer. Built and tested on macOS 26.
 - The stream playing in an app **with a window**: a browser tab, a video player.
   (The audio tap only hears apps with windows. A background process is silent to it.)
+- You can **mute the Mac's speakers** and it still hears everything: the tap takes
+  the sound before the volume knob. Tested 2026-10-08, volume 0, full transcript.
 
 ## Once, before the first run
 
