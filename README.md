@@ -87,8 +87,10 @@ Both are plain text. Edit them with anything.
 - Names are the weak spot of every recognizer. The names list helps; the fixes
   list catches the rest; the rehearsal on the 21st is where the fixes list
   gets written.
-- It held for an hour in our tests (see the log). If it stops hearing, the log
-  says SILENCE; if a recognizer dies, the log says why.
+- It holds for an hour. Measured 2026-10-08 on the macOS 26 engine: 63 minutes
+  of continuous speech, 1,303 lines, first line to last, no silence warnings,
+  no engine errors, with the Mac muted. If it stops hearing, the log says
+  SILENCE; if a recognizer dies, the log says why.
 
 ## Build it yourself
 
